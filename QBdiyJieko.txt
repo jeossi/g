@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/je/T1/-/raw/main/QBdiyLive9.txt",
+      "url": "https://github.com/jeossi/jiekou/blob/main/QBdiyLive18.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
