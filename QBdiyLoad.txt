@@ -1,7 +1,7 @@
 {
   "IsRecodeLog": false,
   "ForceChangeAPIUrl": false,
-  "APIUrl": "https://jihulab.com/je/T1/-/raw/main/QBdiyJieko.txt",
+  "APIUrl": "https://github.com/jeossi/jiekou/blob/main/QBdiyJieko.txt",
   "HomeID": "csp_Kunyu77",
   "HomeShowType": 1,
   "HomeSearchType": 1,
