@@ -1,0 +1,28 @@
+{
+  "IsRecodeLog": false,
+  "ForceChangeAPIUrl": false,
+  "APIUrl": "https://jihulab.com/je/T1/-/raw/main/QBdiyJieko.txt",
+  "HomeID": "csp_Kunyu77",
+  "HomeShowType": 1,
+  "HomeSearchType": 1,
+  "HomeFastSearch": false,
+  "HomeDNSType": 0,
+  "HomeHistoryNum": 1,
+  "HomePictureZoom": 0,
+  "HomeWindowPreview": true,
+  "Live": {
+    "Channel": "河北卫视",
+    "ChannelReverse": false,
+    "CrossGroup": true,
+    "ConnectTimeout": 1,
+    "ShowNetSpeed": true,
+    "ShowTime": true
+  },
+  "IsForceUpdate": false,
+  "UpdateData": {
+    "NewVersion": "23.09.21.23.01",
+    "ForceUpdate": false,
+    "UpdateDesc": "修正一些bug;优化图片加载;(可能是最后一版对4.4以下的支持)\nRevert Js (#1)\nRevert Update build.gradle",
+    "UpdateDownloadUrl": "https://github.com/chengxue2020/q215613905-Tbox/releases/download/20230921-2255/TVBox_chengxue2020_20230921-2255_Release.apk"
+  }
+}
