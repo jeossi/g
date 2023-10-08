@@ -1,7 +1,7 @@
 {
   "IsRecodeLog": false,
   "ForceChangeAPIUrl": false,
-  "APIUrl": "https://github.com/jeossi/jiekou/blob/main/QBdiyJieko.txt",
+  "APIUrl": "https://ghproxy.com/https://github.com/jeossi/jiekou/blob/main/QBdiyJieko.txt",
   "HomeID": "csp_Kunyu77",
   "HomeShowType": 1,
   "HomeSearchType": 1,
